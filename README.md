@@ -9,6 +9,7 @@ La arquitectura se basa en un modelo de Modelo Vista Controlador incorporando to
 ## Getting Started
 
 Para iniciar nuestro proyecto debes descargar o clonar el repositoria y guardalo localmente.
+Realizas un pub get en pubspec.yaml para descargar las librerias.
 
 Podras ejecturlo en Visual Studio desde tu main.
 
