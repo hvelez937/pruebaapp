@@ -1,16 +1,21 @@
 # prueba_app
 
-A new Flutter project.
+Personaje Rick and Morty
+
+En este proyecto listamos los persanajes de Rick and Morty en una lista en la que podremos consultar a Detalle el origen y la localizacion de cada personaje. los datos se consumen de la APi https://rickandmortyapi.com/.
+
+La arquitectura se basa en un modelo de Modelo Vista Controlador incorporando toda la logica de la app en el provider.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para iniciar nuestro proyecto debes descargar o clonar el repositoria y guardalo localmente.
 
-A few resources to get you started if this is your first Flutter project:
+Podras ejecturlo en Visual Studio desde tu main.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Tambien puedes generar el apk ejecutando en el terminal el siguiente comando en flutter build apk --split-per-abi.
+Buscas la carpeta en tu equipo el ejecutable (build\app\outputs\flutter-apk)
+lo Instalas en tu dispositivo movil y podras probarlo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+app-armeabi-v7a-release.apk
+
+
