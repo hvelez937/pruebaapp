@@ -8,14 +8,15 @@ La arquitectura se basa en un modelo de Modelo Vista Controlador incorporando to
 
 ## Getting Started
 
-Para iniciar nuestro proyecto debes descargar o clonar el repositoria y guardalo localmente.
-Realizas un pub get en pubspec.yaml para descargar las librerias.
+Para iniciar nuestro proyecto debes descargar o clonar el repositorio y guardarlo localmente.
+
+Debes realizar un pub get en pubspec.yaml para descargar las librerias.
 
 Podras ejecturlo en Visual Studio desde tu main.
 
 Tambien puedes generar el apk ejecutando en el terminal el siguiente comando en flutter build apk --split-per-abi.
 Buscas la carpeta en tu equipo el ejecutable (build\app\outputs\flutter-apk)
-lo Instalas en tu dispositivo movil y podras probarlo
+lo Instalas en tu dispositivo movil y podras probarlo.
 
 app-armeabi-v7a-release.apk
 
